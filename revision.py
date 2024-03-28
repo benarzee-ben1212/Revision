@@ -1,5 +1,5 @@
 # Example 7: count()
-s = 'hello world'
+s = 'hello world revision'
 print(s.count('l'))  # Output: 3
 
 # Example 8: replace()
